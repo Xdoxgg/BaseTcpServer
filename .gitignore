@@ -1,0 +1,8 @@
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+.idea/
+BaseTcpServer/bin/
+BaseTcpServer/obj/
+BaseTcpClient/bin/
+BaseTcpClient/obj/
